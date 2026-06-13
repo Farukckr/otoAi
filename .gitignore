@@ -1,0 +1,52 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Visual Studio Code
+.vscode/
+
+# Project specific
+temp/
+topics/used_topics.json
+vbs_debug.log
+youtube_credentials.json
+youtube_token.pickle
+test.mp3
+test.vtt
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.json
+!topics/topic_bank.json

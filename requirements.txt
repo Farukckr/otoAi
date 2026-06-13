@@ -1,0 +1,14 @@
+google-genai
+edge-tts
+requests>=2.31.0
+moviepy>=2.2.1
+Pillow>=10.0.0
+python-dotenv>=1.0.0
+apscheduler>=3.10.0
+google-auth>=2.28.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.120.0
+pydub>=0.25.1
+numpy>=1.26.0
+instagrapi>=2.1.3

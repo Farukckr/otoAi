@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "Sağlık & Beslenme",
+      "topics": [
+        "Her gün havuç yersen ne olur?",
+        "Günde 2 litre su içmenin vücudunuza etkisi",
+        "Sarımsak yemenin 7 şaşırtıcı faydası",
+        "Zeytinyağının gizli gücü - bilmediğin 5 faydası",
+        "Her sabah limonlu su içersen ne olur?",
+        "Kahve içmenin zararları ve faydaları",
+        "Yeşil çayın bilinmeyen faydaları",
+        "Bal ve tarçın karıştırırsanız ne olur?",
+        "Yoğurt her gün yenirse vücuda ne olur?",
+        "Brokoli yemenin şaşırtıcı 6 faydası"
+      ]
+    },
+    {
+      "name": "İlginç Bilgiler",
+      "topics": [
+        "Bunları biliyor muydunuz? Beyin hakkında 5 şaşırtıcı gerçek",
+        "Dünyanın en ilginç 5 ülkesi",
+        "Okyanusun derinliklerinde yaşayan yaratıklar",
+        "Uzayda insan vücuduna ne olur?",
+        "Tarihte gerçekleşen 5 akıl almaz olay",
+        "Dünyanın en küçük ülkeleri",
+        "Hayvanlar hakkında bilmediğiniz 5 gerçek",
+        "Milyarderlerin ortak alışkanlıkları",
+        "IQ'nuzu artıran 5 alışkanlık",
+        "Dünyanın en tehlikeli yiyecekleri"
+      ]
+    },
+    {
+      "name": "Psikoloji & Motivasyon",
+      "topics": [
+        "Sabah 5'te uyanmanın hayatınıza etkisi",
+        "Başarılı insanların ortak alışkanlıkları",
+        "Dopamin bağımlılığından nasıl kurtulursunuz?",
+        "Her gün kitap okumanın zihne etkisi",
+        "Meditasyonun 30 günde vücuda etkisi",
+        "Sosyal medyanın beyninize yaptıkları",
+        "Telefona bağımlılıktan kurtulmanın yolları",
+        "Para tasarrufunu kolaylaştıran 5 alışkanlık",
+        "Özgüveni artıran 5 teknik",
+        "Erteleme hastalığını yenmenin yolları"
+      ]
+    },
+    {
+      "name": "Teknoloji & Gelecek",
+      "topics": [
+        "Yapay zeka 10 yıl sonra hayatımızı nasıl değiştirecek?",
+        "Elon Musk'ın gizli projeleri",
+        "Gelecekte kalkacak 5 meslek",
+        "Metaverse nedir ve ne işe yarar?",
+        "Kripto paranın geleceği ne olacak?",
+        "Dünyanın en gelişmiş robotları",
+        "Telefonunuzun sizi dinlediğini biliyor muydunuz?",
+        "İnternetin bilinmeyenleri - Dark web nedir?",
+        "5G'nin insan sağlığına etkisi",
+        "Uzay turizminin geleceği"
+      ]
+    }
+  ]
+}
